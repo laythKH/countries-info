@@ -1,0 +1,15 @@
+.card-holder {
+   position: relative;
+   width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+
+.card-holder .container {
+   display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+   gap: 40px;
+   padding-top: 70px;
+   padding-bottom: 70px;
+}

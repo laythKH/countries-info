@@ -1,0 +1,19 @@
+.input-dailog {
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.search-input {
+   position: relative;
+   width: 35vw;
+   padding: 10px 12px;
+   border-radius: 8px;
+   outline: none;
+   border: none;
+   margin: 40px 0 0 0;
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+     font-size: 19px;
+  font-weight: 400;
+}
