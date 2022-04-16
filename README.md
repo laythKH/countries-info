@@ -2,13 +2,13 @@
 
 Make search and get the info of any country you want
 
-### Using
+### --Using
 
-Html 
-CSS
-JavaSript
-Api
+    Html 
+    CSS
+    JavaSript
+    Api
 
-### the purpose of this example
+### --the purpose of this example
 
-just to training on the Api
+    just to training on the Api
